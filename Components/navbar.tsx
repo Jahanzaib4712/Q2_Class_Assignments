@@ -4,7 +4,7 @@ import React from 'react';
 const Navbar = () => {
   return (
     <div className="w-full fixed  z-[10000] top-0 h-[8vh] flex items-center justify-center bg-[#043873] shadow-md">
-      <div className="w-[90%] mx-[15rem] grid-cols-1 mx-auto grid  lg:grid-cols-2 gap-[3rem] h-full items-center">
+      <div className="w-[90%] mx-[15rem] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-full items-center">
         <Image src="/images/logo.png" alt="logo image" width={191} height={34}  />
         
         

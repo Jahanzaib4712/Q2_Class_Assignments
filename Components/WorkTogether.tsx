@@ -35,4 +35,4 @@ const WorkTogether = () => {
   )
 }
 
-export default WorkTogether
+export default WorkTogether;
