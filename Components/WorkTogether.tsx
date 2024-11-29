@@ -4,7 +4,7 @@ import React from 'react'
 const WorkTogether = () => {
   return (
     <div className='h-[100vh]  bg-cover bg-center bg-[white] '>
-    <div className='flex justify-center items-center justify-evenly mx-[10rem]'>
+    <div className='flex items-center justify-evenly mx-[10rem]'>
         <div>
             <Image src="/images/big1.png" alt='back-image2' width={710} height={661}/>
         </div>
@@ -21,7 +21,7 @@ const WorkTogether = () => {
            </button>
            <div>
            <Image src="/images/Element.png" alt='linelogo' width={500} height={29}
-         className="fixed absolute inset-0 z-10 absolute left-1/2 transform -translate-x-1/2"
+         className="absolute inset-0 z-10 left-1/2 transform -translate-x-1/2"
          style={{
          top: "2224px",
          bottom: "10.82%",
