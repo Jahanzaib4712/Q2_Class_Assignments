@@ -25,7 +25,7 @@ const ProjectMangement = () => {
         <Image src="/images/Element.png" alt='linelogo' width={650} height={29}
          className="absolute inset-0 z-10  left-1/2 transform -translate-x-1/2"
          style={{
-         top: "1206px",
+         top: "1226px",
          bottom: "10.82%",
          left: "560px"
        }}/>

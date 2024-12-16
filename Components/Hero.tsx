@@ -18,7 +18,7 @@ const Hero = () => {
         </div>
         <Image src="/images/image.svg" alt='hero-image' height={549} width={824} className='ml-8' />
       </div>
-      <Image src="/images/background.png" alt='background-image' width={2651.8}  height={64} className="fixed absolute left-1/2 transform -translate-x-1/2"
+      <Image src="/images/background.png" alt='background-image' width={2651.8}  height={64} className=" absolute left-1/2 transform -translate-x-1/2"
                style={{
                width: "2651.8px",
                top: "220px",

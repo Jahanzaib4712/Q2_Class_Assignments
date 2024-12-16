@@ -23,7 +23,7 @@ const WorkTogether = () => {
            <Image src="/images/Element.png" alt='linelogo' width={500} height={29}
          className="absolute inset-0 z-10 left-1/2 transform -translate-x-1/2"
          style={{
-         top: "2224px",
+         top: "2254px",
          bottom: "10.82%",
          left: "1490px"
        }}/>
